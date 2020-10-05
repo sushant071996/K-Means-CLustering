@@ -1,7 +1,7 @@
 
 ## Data Analysis and Visualisation using K-Means-CLustering
 
-In this project I'm trying to analyze and visualize the data and form Cluster. I have 3 input feature i.e Age, Annual Income and Spending Score. Depending on Elbow Method I will determine no of Cluster and visualize them.
+In this project I'm trying to analyze and visualize the data and form Clusters. I have 3 input feature i.e Age, Annual Income and Spending Score. Depending on Elbow Method I will determine no of Cluster and visualize them.
 
 ## Data Description
 
